@@ -10,7 +10,7 @@ Spam detection is a crucial task in email filtering. This project uses state-of-
 
 - **Pre-trained Model:** Utilizes the lightweight and fast `distilbert-base-uncased` model.
 - **Fine-tuning:** Custom fine-tuning on a spam vs. ham email dataset.
-- **Evaluation Metrics:** Accuracy, Precision, Recall, and F1-score for performance evaluation.
+- **Evaluation Metrics:** Accuracy, and confusion metric for performance evaluation.
 - **Easy Integration:** Ready-to-use scripts for training and prediction.
 
 ## Project Structure
