@@ -4,7 +4,7 @@ This repository contains a project that leverages the [DistilBERT](https://huggi
 
 ## Overview
 
-Spam detection is a crucial task in email filtering. This project uses state-of-the-art Natural Language Processing (NLP) techniques to analyze email text and accurately predict whether it is spam. The project is built using the [Hugging Face Transformers](https://github.com/huggingface/transformers) library along with either PyTorch or TensorFlow as the backend.
+Spam detection is a crucial task in email filtering. This project uses state-of-the-art Natural Language Processing (NLP) techniques to analyze email text and accurately predict whether it is spam. The project is built using the [Hugging Face Transformers](https://github.com/huggingface/transformers) library along with either PyTorch as the backend.
 
 ## Features
 
