@@ -25,6 +25,5 @@ Spam detection is a crucial task in email filtering. This project uses state-of-
 - **Trained Model:** [Access the fine-tuned model on Google Drive](https://drive.google.com/drive/folders/1Yv9Lv8wTmnumtcYLHOgk93ht_lWAUj3Q?usp=sharing)
 - **Training Results & Logs:** [Access training logs and evaluation results on Google Drive](https://drive.google.com/drive/folders/1Uo-CrfPyvTq17-tPnM5Rjym0Ln_r5P1c?usp=sharing)
 
-*Replace the above links with your actual sharing URLs.*
 
 This project demonstrates the application of state-of-the-art NLP techniques in solving a real-world problem—filtering unwanted spam emails—while maintaining efficiency and scalability.
